@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-07-17T02:47:53.263826+00:00",
+  "updated_at": "2026-07-17T08:13:12.283189+00:00",
   "count": 50,
   "items": [
+    {
+      "id": "19a5c7e3-b743-4cb6-8dd8-41459bfc685d",
+      "title": "تدليل فارسة لا تعرف اي شيء سوى القتال",
+      "cover": "https://uploads.mangadex.org/covers/19a5c7e3-b743-4cb6-8dd8-41459bfc685d/883318ff-c44b-4ea9-a456-2b5b18a34631.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "c4b36f15-4ee5-425f-a77d-c2e7cbb970d8",
+      "title": "NIPPON SANGOKU: The Three Nations of the Crimson Sun",
+      "cover": "https://uploads.mangadex.org/covers/c4b36f15-4ee5-425f-a77d-c2e7cbb970d8/e5c54f1b-6ea4-4dd2-ae6e-9d0e138d7c2e.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
     {
       "id": "5b93fa0f-0640-49b8-974e-954b9959929b",
       "title": "Girls' Last Tour",
@@ -337,20 +351,6 @@
       "cover": "https://uploads.mangadex.org/covers/f6ce20ca-73c3-4fdd-9367-e2901fca780e/fed093aa-cbcf-4ca0-b80c-49eb251b1e80.png.256.jpg",
       "source": "mangadex",
       "status": "ongoing"
-    },
-    {
-      "id": "9d563964-e935-47d4-812a-abfd2f625384",
-      "title": "Shijou Saikyou no Deshi Kenichi",
-      "cover": "https://uploads.mangadex.org/covers/9d563964-e935-47d4-812a-abfd2f625384/8c3bfc36-77ad-4ec4-8321-5d7770493650.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "completed"
-    },
-    {
-      "id": "6a09a5f0-4fcf-4f5a-982d-236a3f70f4de",
-      "title": "Relentlessly Approaching the Poison-Tongued and Indifferent Beauty to Tickle the Cutesy Reactions Out of Her",
-      "cover": "https://uploads.mangadex.org/covers/6a09a5f0-4fcf-4f5a-982d-236a3f70f4de/3a95a40e-fda2-4f3e-a531-1cc758027c5f.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "completed"
     }
   ]
 }
