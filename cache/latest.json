@@ -1,11 +1,74 @@
 {
-  "updated_at": "2026-08-29T06:08:26.788758+00:00",
+  "updated_at": "2026-08-29T16:22:33.571150+00:00",
   "count": 50,
   "items": [
+    {
+      "id": "c4ca02fb-8378-433b-8049-fbbea5d25cba",
+      "title": "هايميا-سينباي حسناء مهيبة!",
+      "cover": "https://uploads.mangadex.org/covers/c4ca02fb-8378-433b-8049-fbbea5d25cba/7ab29404-0ebd-4862-ad4e-e4ea1ffe231f.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "a0a5528a-c4a8-4495-a966-6877c12856ba",
+      "title": "TRUMP",
+      "cover": "https://uploads.mangadex.org/covers/a0a5528a-c4a8-4495-a966-6877c12856ba/8cec91f3-ac76-460f-9d42-3d1b4163c0e3.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "completed"
+    },
+    {
+      "id": "db692d58-4b13-4174-ae8c-30c515c0689c",
+      "title": "Hunter x Hunter",
+      "cover": "https://uploads.mangadex.org/covers/db692d58-4b13-4174-ae8c-30c515c0689c/aa112927-f1e5-4fe4-a4db-7fd4a1536e3c.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "d8a959f7-648e-4c8d-8f23-f1f3f8e129f3",
+      "title": "ون بنش مان",
+      "cover": "https://uploads.mangadex.org/covers/d8a959f7-648e-4c8d-8f23-f1f3f8e129f3/511fc404-e6b4-4204-bb10-e4a28f7b5271.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "bbaa17c4-0f36-4bbb-9861-34fc8fdf20fc",
+      "title": "EDENS ZERO",
+      "cover": "https://uploads.mangadex.org/covers/bbaa17c4-0f36-4bbb-9861-34fc8fdf20fc/c17ea08e-ba67-4f81-b54f-2d545fa1c62e.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "completed"
+    },
+    {
+      "id": "4d6decd4-835d-4905-9534-2571dae07bcd",
+      "title": "Lord El-Melloi II-sei no Jikenbo",
+      "cover": "https://uploads.mangadex.org/covers/4d6decd4-835d-4905-9534-2571dae07bcd/5f347aae-bf45-4dcb-828d-2c507db71d2f.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
     {
       "id": "30196491-8fc2-4961-8886-a58f898b1b3e",
       "title": "Berserk of Gluttony: The One that Exceeds the Concept of Levels",
       "cover": "https://uploads.mangadex.org/covers/30196491-8fc2-4961-8886-a58f898b1b3e/1790f17f-9184-4a48-8928-c45de48b778e.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "b5b21ca1-bba5-4b9a-8cd1-6248f731650b",
+      "title": "سجلات راغناروك",
+      "cover": "https://uploads.mangadex.org/covers/b5b21ca1-bba5-4b9a-8cd1-6248f731650b/64235ab3-3595-47ea-b65a-457b828489c2.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "d553645b-03a3-4fc8-9a9c-57f91cbbab89",
+      "title": "Are You a Landmine, Chihara-san?",
+      "cover": "https://uploads.mangadex.org/covers/d553645b-03a3-4fc8-9a9c-57f91cbbab89/4878d139-e5ee-49eb-aeb6-1c2f9025624e.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "8e95570e-93a7-494d-8e83-bd755e3b631d",
+      "title": "Fragments of the Layered City",
+      "cover": "https://uploads.mangadex.org/covers/8e95570e-93a7-494d-8e83-bd755e3b631d/cffb96dc-36e9-48b3-9570-9f99b7d6f2fc.png.256.jpg",
       "source": "mangadex",
       "status": "ongoing"
     },
@@ -31,13 +94,6 @@
       "status": "ongoing"
     },
     {
-      "id": "b5b21ca1-bba5-4b9a-8cd1-6248f731650b",
-      "title": "سجلات راغناروك",
-      "cover": "https://uploads.mangadex.org/covers/b5b21ca1-bba5-4b9a-8cd1-6248f731650b/64235ab3-3595-47ea-b65a-457b828489c2.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
-    },
-    {
       "id": "114f08df-91de-4504-a5c7-8eaf51ff695c",
       "title": "Kitakubu Katsudou Kiroku",
       "cover": "https://uploads.mangadex.org/covers/114f08df-91de-4504-a5c7-8eaf51ff695c/5951f5b7-d8cc-4f11-ba21-a01e300de2eb.jpg.256.jpg",
@@ -55,13 +111,6 @@
       "id": "4644da00-8f23-44a8-aa99-e3661dcee901",
       "title": "Trigun Maximum",
       "cover": "https://uploads.mangadex.org/covers/4644da00-8f23-44a8-aa99-e3661dcee901/d75ab09e-4e47-4d2e-9aa8-925c9f47bfd0.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "completed"
-    },
-    {
-      "id": "a0a5528a-c4a8-4495-a966-6877c12856ba",
-      "title": "TRUMP",
-      "cover": "https://uploads.mangadex.org/covers/a0a5528a-c4a8-4495-a966-6877c12856ba/8cec91f3-ac76-460f-9d42-3d1b4163c0e3.jpg.256.jpg",
       "source": "mangadex",
       "status": "completed"
     },
@@ -99,20 +148,6 @@
       "cover": "https://uploads.mangadex.org/covers/a07320a4-afcd-413a-a451-d69a448d0c28/b74c8cce-42cd-4889-b75d-7944e63f9a14.jpg.256.jpg",
       "source": "mangadex",
       "status": "completed"
-    },
-    {
-      "id": "d553645b-03a3-4fc8-9a9c-57f91cbbab89",
-      "title": "Are You a Landmine, Chihara-san?",
-      "cover": "https://uploads.mangadex.org/covers/d553645b-03a3-4fc8-9a9c-57f91cbbab89/4878d139-e5ee-49eb-aeb6-1c2f9025624e.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
-    },
-    {
-      "id": "c4ca02fb-8378-433b-8049-fbbea5d25cba",
-      "title": "هايميا-سينباي حسناء مهيبة!",
-      "cover": "https://uploads.mangadex.org/covers/c4ca02fb-8378-433b-8049-fbbea5d25cba/7ab29404-0ebd-4862-ad4e-e4ea1ffe231f.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
     },
     {
       "id": "356de811-ae92-48f1-b93b-cfdf0f8d02e4",
@@ -255,13 +290,6 @@
       "status": "ongoing"
     },
     {
-      "id": "d8a959f7-648e-4c8d-8f23-f1f3f8e129f3",
-      "title": "ون بنش مان",
-      "cover": "https://uploads.mangadex.org/covers/d8a959f7-648e-4c8d-8f23-f1f3f8e129f3/511fc404-e6b4-4204-bb10-e4a28f7b5271.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
-    },
-    {
       "id": "29ab6984-7c1d-4d45-b925-25aa082b492e",
       "title": "Shangri-La Frontier: From Trash-Game Hunter to God-Tier Game Master!",
       "cover": "https://uploads.mangadex.org/covers/29ab6984-7c1d-4d45-b925-25aa082b492e/c691a3e7-7ec0-4c2f-a86a-cf04489b33aa.jpg.256.jpg",
@@ -271,7 +299,7 @@
     {
       "id": "8a38bcc4-0a52-4a46-9d02-7fc802048b1d",
       "title": "Shinobi Undercover",
-      "cover": "https://uploads.mangadex.org/covers/8a38bcc4-0a52-4a46-9d02-7fc802048b1d/da513bdd-26f8-48a1-9b11-4f4e9b35f245.jpg.256.jpg",
+      "cover": "https://uploads.mangadex.org/covers/8a38bcc4-0a52-4a46-9d02-7fc802048b1d/c5695518-7681-4f96-a2a9-7f13ee460196.jpg.256.jpg",
       "source": "mangadex",
       "status": "ongoing"
     },
@@ -323,34 +351,6 @@
       "cover": "https://uploads.mangadex.org/covers/a1c7c817-4e59-43b7-9365-09675a149a6f/2f4aca53-64c7-46ac-ae85-3bc9b3169890.png.256.jpg",
       "source": "mangadex",
       "status": "ongoing"
-    },
-    {
-      "id": "77bee52c-d2d6-44ad-a33a-1734c1fe696a",
-      "title": "The Eminence in Shadow",
-      "cover": "https://uploads.mangadex.org/covers/77bee52c-d2d6-44ad-a33a-1734c1fe696a/6079dd31-838b-4d61-87c4-121f3ad19158.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
-    },
-    {
-      "id": "46e9cae5-4407-4576-9b9e-4c517ae9298e",
-      "title": "أرض الأحلام الموعودة",
-      "cover": "https://uploads.mangadex.org/covers/46e9cae5-4407-4576-9b9e-4c517ae9298e/e023b6b0-76c7-4dfd-8ec2-ce7a26b90a05.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "completed"
-    },
-    {
-      "id": "733d95ce-4dc2-4c02-a177-6cb772b18317",
-      "title": "The Girl I Saved on the Train Turned out to Be My Childhood Friend",
-      "cover": "https://uploads.mangadex.org/covers/733d95ce-4dc2-4c02-a177-6cb772b18317/e284f7bb-ca82-407b-b0e1-31dd52b8f65c.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "completed"
-    },
-    {
-      "id": "37f5cce0-8070-4ada-96e5-fa24b1bd4ff9",
-      "title": "Kaguya-sama: Love Is War",
-      "cover": "https://uploads.mangadex.org/covers/37f5cce0-8070-4ada-96e5-fa24b1bd4ff9/e21ca520-5054-4041-a07e-de8b7c683522.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "completed"
     }
   ]
 }
