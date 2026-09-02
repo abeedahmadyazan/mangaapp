@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-09-02T03:28:17.493594+00:00",
+  "updated_at": "2026-09-02T10:51:18.405507+00:00",
   "count": 50,
   "items": [
+    {
+      "id": "52ede55c-1584-4019-b85b-3902a423c3ab",
+      "title": "FAIRY TAIL: 100 Years Quest",
+      "cover": "https://uploads.mangadex.org/covers/52ede55c-1584-4019-b85b-3902a423c3ab/8e18a9d7-27ed-48ff-924b-a397df5ba0a0.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "510f29a8-99b4-46af-ba5e-916e96bc6f37",
+      "title": "Fate/type Redline",
+      "cover": "https://uploads.mangadex.org/covers/510f29a8-99b4-46af-ba5e-916e96bc6f37/c1d7aed1-9cd1-426f-bfb8-7e46594d0e29.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "097ba2ca-4f27-439d-b74b-623443924e75",
+      "title": "ليس لِلحرب وجهٌ أنثوي",
+      "cover": "https://uploads.mangadex.org/covers/097ba2ca-4f27-439d-b74b-623443924e75/3dd0c4db-e251-483c-a2ea-8f615b5fa49e.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
     {
       "id": "96ae166c-d8e1-4e9e-88cb-805b65154d7e",
       "title": "Red Blue",
@@ -132,13 +153,6 @@
       "id": "4141c5dc-c525-4df5-afd7-cc7d192a832f",
       "title": "Blue Lock",
       "cover": "https://uploads.mangadex.org/covers/4141c5dc-c525-4df5-afd7-cc7d192a832f/7ee723d4-b926-4a81-acd9-53adb3fbe461.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
-    },
-    {
-      "id": "52ede55c-1584-4019-b85b-3902a423c3ab",
-      "title": "FAIRY TAIL: 100 Years Quest",
-      "cover": "https://uploads.mangadex.org/covers/52ede55c-1584-4019-b85b-3902a423c3ab/8e18a9d7-27ed-48ff-924b-a397df5ba0a0.jpg.256.jpg",
       "source": "mangadex",
       "status": "ongoing"
     },
@@ -337,20 +351,6 @@
       "cover": "https://uploads.mangadex.org/covers/7bb7e5ae-a784-4009-98b2-8ad4a7541548/63c9b16e-e1f3-4eb2-ac6d-191e74d0a05a.jpg.256.jpg",
       "source": "mangadex",
       "status": "completed"
-    },
-    {
-      "id": "ac783473-e74c-4ed4-b3d7-89e50b171b5f",
-      "title": "GALAXIAS",
-      "cover": "https://uploads.mangadex.org/covers/ac783473-e74c-4ed4-b3d7-89e50b171b5f/3e8692a1-ed94-403f-8f9a-51b319108782.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
-    },
-    {
-      "id": "0a580438-bc72-4503-940b-12a5da881b56",
-      "title": "أنتِ زهرة الحظ",
-      "cover": "https://uploads.mangadex.org/covers/0a580438-bc72-4503-940b-12a5da881b56/a64a8d8b-1c71-496e-a0a7-0c1da501da6c.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
     }
   ]
 }
