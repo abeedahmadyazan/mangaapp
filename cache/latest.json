@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-09-11T16:03:46.609818+00:00",
+  "updated_at": "2026-09-11T20:38:27.012305+00:00",
   "count": 50,
   "items": [
+    {
+      "id": "319df2e2-e6a6-4e3a-a31c-68539c140a84",
+      "title": "Slam Dunk!",
+      "cover": "https://uploads.mangadex.org/covers/319df2e2-e6a6-4e3a-a31c-68539c140a84/a845455f-52d0-4cc4-92a8-bd5bad7d69b9.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "completed"
+    },
+    {
+      "id": "26102334-1f7b-4a5b-a64f-107c5c24a70f",
+      "title": "Mao",
+      "cover": "https://uploads.mangadex.org/covers/26102334-1f7b-4a5b-a64f-107c5c24a70f/2a179e58-6067-4f7f-a40a-4f472b67a219.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "0cfcda3b-0dcb-459b-9931-aa823e7bf403",
+      "title": "تسع قمم",
+      "cover": "https://uploads.mangadex.org/covers/0cfcda3b-0dcb-459b-9931-aa823e7bf403/2f960366-7159-4f17-b3bf-b5f52e9860f7.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
     {
       "id": "85a99758-de39-471e-9f6d-800547f53d0a",
       "title": "Tougen Anki: Legend of the Cursed Blood",
@@ -208,7 +229,7 @@
     {
       "id": "96ae166c-d8e1-4e9e-88cb-805b65154d7e",
       "title": "Red Blue",
-      "cover": "https://uploads.mangadex.org/covers/96ae166c-d8e1-4e9e-88cb-805b65154d7e/d010f9c1-fdaa-4925-93df-dc3c06417574.jpg.256.jpg",
+      "cover": "https://uploads.mangadex.org/covers/96ae166c-d8e1-4e9e-88cb-805b65154d7e/1719b5a1-f476-4822-b83a-29bad41aaf17.jpg.256.jpg",
       "source": "mangadex",
       "status": "ongoing"
     },
@@ -229,7 +250,7 @@
     {
       "id": "f5c25341-d6ff-4585-8548-3a48fc7654d9",
       "title": "Akira Failing in Love",
-      "cover": "https://uploads.mangadex.org/covers/f5c25341-d6ff-4585-8548-3a48fc7654d9/26f901ef-4583-4646-ad71-0fe412ad7fec.jpg.256.jpg",
+      "cover": "https://uploads.mangadex.org/covers/f5c25341-d6ff-4585-8548-3a48fc7654d9/26bd1cd9-bb1b-42d8-aa92-f916122c606c.jpg.256.jpg",
       "source": "mangadex",
       "status": "ongoing"
     },
@@ -318,13 +339,6 @@
       "status": "completed"
     },
     {
-      "id": "0cfcda3b-0dcb-459b-9931-aa823e7bf403",
-      "title": "تسع قمم",
-      "cover": "https://uploads.mangadex.org/covers/0cfcda3b-0dcb-459b-9931-aa823e7bf403/2f960366-7159-4f17-b3bf-b5f52e9860f7.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
-    },
-    {
       "id": "dea77c2d-dbaa-434a-b0af-0c116642434c",
       "title": "Ichi the Witch",
       "cover": "https://uploads.mangadex.org/covers/dea77c2d-dbaa-434a-b0af-0c116642434c/707b5cff-60e3-40fe-8105-e9065d5f8abd.jpg.256.jpg",
@@ -337,20 +351,6 @@
       "cover": "https://uploads.mangadex.org/covers/733d95ce-4dc2-4c02-a177-6cb772b18317/e284f7bb-ca82-407b-b0e1-31dd52b8f65c.jpg.256.jpg",
       "source": "mangadex",
       "status": "completed"
-    },
-    {
-      "id": "61830b36-1712-4b7b-9421-f671e9ced6d3",
-      "title": "Learning to Love My Cat-like Classmate",
-      "cover": "https://uploads.mangadex.org/covers/61830b36-1712-4b7b-9421-f671e9ced6d3/6076a7f6-4454-49fb-8802-89ee00aec545.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
-    },
-    {
-      "id": "c5bf33f1-498d-425b-b22b-83d4ccb8c341",
-      "title": "Level 0 Demon King Becomes an Adventurer in Another World",
-      "cover": "https://uploads.mangadex.org/covers/c5bf33f1-498d-425b-b22b-83d4ccb8c341/2e4bcb66-834c-434b-988f-18dedcfcbfe8.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
     }
   ]
 }
