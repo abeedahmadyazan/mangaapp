@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T03:54:52.557767+00:00",
+  "updated_at": "2026-09-15T11:18:53.811778+00:00",
   "count": 50,
   "items": [
     {
@@ -10,9 +10,30 @@
       "status": "ongoing"
     },
     {
+      "id": "4242c6d3-4ee4-4b0b-9ca0-23bd57952805",
+      "title": "ليس حُبًّا بعدُ، ولكن...",
+      "cover": "https://uploads.mangadex.org/covers/4242c6d3-4ee4-4b0b-9ca0-23bd57952805/c0df0d1a-d8a2-4fb9-844e-8e128bb81c67.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "d64b0768-bebe-433c-b923-99870503c0a3",
+      "title": "Dark Gathering",
+      "cover": "https://uploads.mangadex.org/covers/d64b0768-bebe-433c-b923-99870503c0a3/6ba0bedc-fd0f-45c1-954d-bd61df43f83b.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
       "id": "8e95570e-93a7-494d-8e83-bd755e3b631d",
       "title": "Fragments of the Layered City",
       "cover": "https://uploads.mangadex.org/covers/8e95570e-93a7-494d-8e83-bd755e3b631d/cffb96dc-36e9-48b3-9570-9f99b7d6f2fc.png.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "bcfe1b36-daee-40fd-9984-d9597caf9da7",
+      "title": "فَقِيْهَةُ ٱلْمَغُوْلِ",
+      "cover": "https://uploads.mangadex.org/covers/bcfe1b36-daee-40fd-9984-d9597caf9da7/5ce19283-d717-44e2-bb69-4247640d3c75.jpg.256.jpg",
       "source": "mangadex",
       "status": "ongoing"
     },
@@ -120,13 +141,6 @@
       "cover": "https://uploads.mangadex.org/covers/b0b721ff-c388-4486-aa0f-c2b0bb321512/b9a049b0-186b-4714-a83e-bb965458914a.jpg.256.jpg",
       "source": "mangadex",
       "status": "hiatus"
-    },
-    {
-      "id": "bcfe1b36-daee-40fd-9984-d9597caf9da7",
-      "title": "فَقِيْهَةُ ٱلْمَغُوْلِ",
-      "cover": "https://uploads.mangadex.org/covers/bcfe1b36-daee-40fd-9984-d9597caf9da7/5ce19283-d717-44e2-bb69-4247640d3c75.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
     },
     {
       "id": "bd6d0982-0091-4945-ad70-c028ed3c0917",
@@ -311,13 +325,6 @@
       "status": "ongoing"
     },
     {
-      "id": "d64b0768-bebe-433c-b923-99870503c0a3",
-      "title": "Dark Gathering",
-      "cover": "https://uploads.mangadex.org/covers/d64b0768-bebe-433c-b923-99870503c0a3/6ba0bedc-fd0f-45c1-954d-bd61df43f83b.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
-    },
-    {
       "id": "d422ddc8-eea3-4b0a-82a4-291bbd8c9285",
       "title": "أبناء عائلة شيونجي",
       "cover": "https://uploads.mangadex.org/covers/d422ddc8-eea3-4b0a-82a4-291bbd8c9285/18f555fb-4fe4-4d47-8fbe-7bd101a5bc3a.jpg.256.jpg",
@@ -342,13 +349,6 @@
       "id": "67e7453b-9ee5-4ae5-9316-215b03e4a71d",
       "title": "Witch Hat Atelier",
       "cover": "https://uploads.mangadex.org/covers/67e7453b-9ee5-4ae5-9316-215b03e4a71d/a9feeb2a-4b34-4a52-93fb-ab948e743503.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
-    },
-    {
-      "id": "936f0ba5-ca65-4de4-99b1-528c02a4454d",
-      "title": "Hunter x Hunter (Official Colored)",
-      "cover": "https://uploads.mangadex.org/covers/936f0ba5-ca65-4de4-99b1-528c02a4454d/128d80df-c5e4-4791-b3b7-08586e9db1b8.jpg.256.jpg",
       "source": "mangadex",
       "status": "ongoing"
     }
