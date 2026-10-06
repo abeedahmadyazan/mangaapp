@@ -1,7 +1,42 @@
 {
-  "updated_at": "2026-10-05T23:50:56.029354+00:00",
+  "updated_at": "2026-10-06T05:25:07.571732+00:00",
   "count": 50,
   "items": [
+    {
+      "id": "bcfe1b36-daee-40fd-9984-d9597caf9da7",
+      "title": "فَقِيْهَةُ ٱلْمَغُوْلِ",
+      "cover": "https://uploads.mangadex.org/covers/bcfe1b36-daee-40fd-9984-d9597caf9da7/5ce19283-d717-44e2-bb69-4247640d3c75.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "1693697a-783c-4d3c-a2d3-dc069e137a23",
+      "title": "I Have No Home",
+      "cover": "https://uploads.mangadex.org/covers/1693697a-783c-4d3c-a2d3-dc069e137a23/bc55de2a-47dd-41cb-9338-75b3f0650a69.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "completed"
+    },
+    {
+      "id": "fffbfac3-b7ad-41ee-9581-b4d90ecec941",
+      "title": "Grand Blue Dreaming",
+      "cover": "https://uploads.mangadex.org/covers/fffbfac3-b7ad-41ee-9581-b4d90ecec941/b6842627-f562-43e1-9f67-148abcf11310.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "61d81be6-2759-4cc4-9815-7952a3449149",
+      "title": "Tensei Shitara Slime Datta Ken - Clayman Revenge",
+      "cover": "https://uploads.mangadex.org/covers/61d81be6-2759-4cc4-9815-7952a3449149/1eebb672-3aa3-4f1d-99c6-ba298420bf54.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "d553645b-03a3-4fc8-9a9c-57f91cbbab89",
+      "title": "Are You a Landmine, Chihara-san?",
+      "cover": "https://uploads.mangadex.org/covers/d553645b-03a3-4fc8-9a9c-57f91cbbab89/4878d139-e5ee-49eb-aeb6-1c2f9025624e.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
     {
       "id": "67a7dfd1-a39d-46c8-8ff2-9a24a9abaeb6",
       "title": "Goblin Slayer",
@@ -59,13 +94,6 @@
       "status": "ongoing"
     },
     {
-      "id": "fffbfac3-b7ad-41ee-9581-b4d90ecec941",
-      "title": "Grand Blue Dreaming",
-      "cover": "https://uploads.mangadex.org/covers/fffbfac3-b7ad-41ee-9581-b4d90ecec941/b6842627-f562-43e1-9f67-148abcf11310.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
-    },
-    {
       "id": "a07320a4-afcd-413a-a451-d69a448d0c28",
       "title": "Usogui",
       "cover": "https://uploads.mangadex.org/covers/a07320a4-afcd-413a-a451-d69a448d0c28/b74c8cce-42cd-4889-b75d-7944e63f9a14.jpg.256.jpg",
@@ -111,13 +139,6 @@
       "id": "25e1d17b-6a4d-4698-a4f6-bf53460c10af",
       "title": "حافلة لإثنين",
       "cover": "https://uploads.mangadex.org/covers/25e1d17b-6a4d-4698-a4f6-bf53460c10af/f7cd3ff9-d7a1-4b5e-b473-ee2833b82c35.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
-    },
-    {
-      "id": "bcfe1b36-daee-40fd-9984-d9597caf9da7",
-      "title": "فَقِيْهَةُ ٱلْمَغُوْلِ",
-      "cover": "https://uploads.mangadex.org/covers/bcfe1b36-daee-40fd-9984-d9597caf9da7/5ce19283-d717-44e2-bb69-4247640d3c75.jpg.256.jpg",
       "source": "mangadex",
       "status": "ongoing"
     },
@@ -227,13 +248,6 @@
       "status": "completed"
     },
     {
-      "id": "1693697a-783c-4d3c-a2d3-dc069e137a23",
-      "title": "I Have No Home",
-      "cover": "https://uploads.mangadex.org/covers/1693697a-783c-4d3c-a2d3-dc069e137a23/bc55de2a-47dd-41cb-9338-75b3f0650a69.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "completed"
-    },
-    {
       "id": "c4b36f15-4ee5-425f-a77d-c2e7cbb970d8",
       "title": "NIPPON SANGOKU: The Three Nations of the Crimson Sun",
       "cover": "https://uploads.mangadex.org/covers/c4b36f15-4ee5-425f-a77d-c2e7cbb970d8/e5c54f1b-6ea4-4dd2-ae6e-9d0e138d7c2e.jpg.256.jpg",
@@ -335,20 +349,6 @@
       "id": "f4045a9e-e5f6-4778-bd33-7a91cefc3f71",
       "title": "For the Sake of My Future Vengeance",
       "cover": "https://uploads.mangadex.org/covers/f4045a9e-e5f6-4778-bd33-7a91cefc3f71/53e634e3-aa3b-4dc3-9171-85e2a71d2ec8.png.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
-    },
-    {
-      "id": "9d9b04ad-9a83-49f4-8ae4-a9a3780fe9c0",
-      "title": "Sakamoto Days",
-      "cover": "https://uploads.mangadex.org/covers/9d9b04ad-9a83-49f4-8ae4-a9a3780fe9c0/f3f1d565-3a66-484a-be9b-28e1b03d9c51.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
-    },
-    {
-      "id": "a76b6b97-e434-40d6-b7c5-6026d22986d6",
-      "title": "رجلة الجنية السوداء ذات القوى المتلاشية",
-      "cover": "https://uploads.mangadex.org/covers/a76b6b97-e434-40d6-b7c5-6026d22986d6/8f40381d-188c-4a28-b492-25c07a7684a5.jpg.256.jpg",
       "source": "mangadex",
       "status": "ongoing"
     }
