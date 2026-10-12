@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-12T04:57:15.807706+00:00",
+  "updated_at": "2026-10-12T14:43:37.339572+00:00",
   "manga": "one-piece",
-  "latest_chapter": 1195,
+  "latest_chapter": null,
   "chapters": {},
-  "note": "Latest 10 chapters cached. Older chapters via MangaDex/3asq live."
+  "note": "cache update failed"
 }
