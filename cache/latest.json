@@ -1,7 +1,126 @@
 {
-  "updated_at": "2026-11-23T06:22:05.952156+00:00",
+  "updated_at": "2026-11-23T23:32:19.230362+00:00",
   "count": 50,
   "items": [
+    {
+      "id": "3169544f-4b87-4a14-917b-f73600941f55",
+      "title": "Noa-Senpai is My Friend.",
+      "cover": "https://uploads.mangadex.org/covers/3169544f-4b87-4a14-917b-f73600941f55/9ead7eb9-9959-4353-8478-b56d121ad87c.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "da36a727-7686-4e92-8fac-94bc292b8e91",
+      "title": "ساحر المكتبة العظيم",
+      "cover": "https://uploads.mangadex.org/covers/da36a727-7686-4e92-8fac-94bc292b8e91/f40f8db2-b1d2-46de-b029-a3a10c333dc2.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "263deeff-c010-4ac7-bc01-6341f3e698ac",
+      "title": "Dragon Quest: The Great Adventure of Dai - Avan the Brave and the Demon King of Hellfire",
+      "cover": "https://uploads.mangadex.org/covers/263deeff-c010-4ac7-bc01-6341f3e698ac/774442b3-f96c-417c-a873-43b682eecf0c.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "77296cee-0b74-415f-914d-6f29036d3906",
+      "title": "مسرحية الجبل",
+      "cover": "https://uploads.mangadex.org/covers/77296cee-0b74-415f-914d-6f29036d3906/6cfbaeb6-59ae-4971-bfaa-3b026b6c9ad9.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "7777c3aa-fe0f-47d6-8672-6a1d60a1a9e8",
+      "title": "Blue Orchestra",
+      "cover": "https://uploads.mangadex.org/covers/7777c3aa-fe0f-47d6-8672-6a1d60a1a9e8/397f64e7-089f-45db-a4b4-37eae348e402.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "ab8cbb82-d0ed-45a7-8ffe-4bfa6d43d79c",
+      "title": "JoJo's Bizarre Adventure Part 9 - The JOJOLands",
+      "cover": "https://uploads.mangadex.org/covers/ab8cbb82-d0ed-45a7-8ffe-4bfa6d43d79c/88e8a8ea-91ed-4db6-937b-4dd0048e74d5.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "87ffa375-bd2c-49ba-ba0c-6d78ea07c342",
+      "title": "Medaka Kuroiwa is Impervious to My Charms",
+      "cover": "https://uploads.mangadex.org/covers/87ffa375-bd2c-49ba-ba0c-6d78ea07c342/28e38262-232a-4f48-bc32-4ac04dc07c88.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "9661f9e7-3c6a-448f-9b1e-2c563ed1e5e9",
+      "title": "تاج الحكاية الخيالية",
+      "cover": "https://uploads.mangadex.org/covers/9661f9e7-3c6a-448f-9b1e-2c563ed1e5e9/bb9d92b7-e944-4f9f-ad18-da8083db1568.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "completed"
+    },
+    {
+      "id": "8a38bcc4-0a52-4a46-9d02-7fc802048b1d",
+      "title": "Shinobi Undercover",
+      "cover": "https://uploads.mangadex.org/covers/8a38bcc4-0a52-4a46-9d02-7fc802048b1d/2fd4b15d-7575-49ec-add2-d1ff0759543a.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "f7b62193-bdfb-4953-a6c6-0bd1b9a872f9",
+      "title": "نداء البوق: لحن المعركة",
+      "cover": "https://uploads.mangadex.org/covers/f7b62193-bdfb-4953-a6c6-0bd1b9a872f9/85c12e60-fd34-402b-a62a-f2fc2fde5a28.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "418791c0-35cf-4f87-936b-acd9cddf0989",
+      "title": "The Fragrant Flower Blooms with Dignity",
+      "cover": "https://uploads.mangadex.org/covers/418791c0-35cf-4f87-936b-acd9cddf0989/6e823d0e-103a-4cf9-a312-a3a292ccb12d.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "5c9d1254-f074-4b5c-8795-6f0641b2597b",
+      "title": "Girl and Science",
+      "cover": "https://uploads.mangadex.org/covers/5c9d1254-f074-4b5c-8795-6f0641b2597b/f606b3ce-4f64-400e-8a1c-265698f68d01.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "completed"
+    },
+    {
+      "id": "936f0ba5-ca65-4de4-99b1-528c02a4454d",
+      "title": "Hunter x Hunter - Digital Colored Comics",
+      "cover": "https://uploads.mangadex.org/covers/936f0ba5-ca65-4de4-99b1-528c02a4454d/128d80df-c5e4-4791-b3b7-08586e9db1b8.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "774f0f04-5023-4e2e-9c0b-f0ed382f078b",
+      "title": "إينيغماتيكا",
+      "cover": "https://uploads.mangadex.org/covers/774f0f04-5023-4e2e-9c0b-f0ed382f078b/4c2f7aca-f127-4a6d-a780-78d4b885eda8.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "d89cfcf7-dcb4-4af7-8c95-330c2c6167d0",
+      "title": "عودة ملك الجثث",
+      "cover": "https://uploads.mangadex.org/covers/d89cfcf7-dcb4-4af7-8c95-330c2c6167d0/ecf61b0f-bb4b-4865-a7a4-9407abc1ba49.png.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "b4c93297-b32f-4f90-b619-55456a38b0aa",
+      "title": "More than a Married Couple, but Not Lovers",
+      "cover": "https://uploads.mangadex.org/covers/b4c93297-b32f-4f90-b619-55456a38b0aa/dd1804e7-56a5-4beb-90ac-d573dee7f1d1.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
+    {
+      "id": "6670ee28-f26d-4b61-b49c-d71149cd5a6e",
+      "title": "مييروكو تشان",
+      "cover": "https://uploads.mangadex.org/covers/6670ee28-f26d-4b61-b49c-d71149cd5a6e/3efd58ff-2ad3-4cc1-9ac7-a5d5bbdc4389.jpg.256.jpg",
+      "source": "mangadex",
+      "status": "ongoing"
+    },
     {
       "id": "25e1d17b-6a4d-4698-a4f6-bf53460c10af",
       "title": "حافلة لإثنين",
@@ -20,13 +139,6 @@
       "id": "3e3604cc-97b5-43f0-ab2c-c144debcae87",
       "title": "Yu☆Gi☆Oh! OCG STORIES",
       "cover": "https://uploads.mangadex.org/covers/3e3604cc-97b5-43f0-ab2c-c144debcae87/187b72db-9d6a-4753-81b2-34e41150ad9f.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
-    },
-    {
-      "id": "3169544f-4b87-4a14-917b-f73600941f55",
-      "title": "Noa-Senpai is My Friend.",
-      "cover": "https://uploads.mangadex.org/covers/3169544f-4b87-4a14-917b-f73600941f55/9ead7eb9-9959-4353-8478-b56d121ad87c.jpg.256.jpg",
       "source": "mangadex",
       "status": "ongoing"
     },
@@ -122,23 +234,9 @@
       "status": "ongoing"
     },
     {
-      "id": "774f0f04-5023-4e2e-9c0b-f0ed382f078b",
-      "title": "إينيغماتيكا",
-      "cover": "https://uploads.mangadex.org/covers/774f0f04-5023-4e2e-9c0b-f0ed382f078b/4c2f7aca-f127-4a6d-a780-78d4b885eda8.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
-    },
-    {
       "id": "d00bd104-d9b2-4ee9-a088-b5065d1c406a",
       "title": "A Certain Scientific Railgun",
       "cover": "https://uploads.mangadex.org/covers/d00bd104-d9b2-4ee9-a088-b5065d1c406a/47e96623-5363-4de2-908c-c649c31bba92.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "completed"
-    },
-    {
-      "id": "5c9d1254-f074-4b5c-8795-6f0641b2597b",
-      "title": "Girl and Science",
-      "cover": "https://uploads.mangadex.org/covers/5c9d1254-f074-4b5c-8795-6f0641b2597b/f606b3ce-4f64-400e-8a1c-265698f68d01.jpg.256.jpg",
       "source": "mangadex",
       "status": "completed"
     },
@@ -148,13 +246,6 @@
       "cover": "https://uploads.mangadex.org/covers/51c1e7cc-23f4-4a08-a961-c1ab75e2bb33/3bdea205-146a-460c-ae6e-7c2b27f762ed.jpg.256.jpg",
       "source": "mangadex",
       "status": "completed"
-    },
-    {
-      "id": "7777c3aa-fe0f-47d6-8672-6a1d60a1a9e8",
-      "title": "Blue Orchestra",
-      "cover": "https://uploads.mangadex.org/covers/7777c3aa-fe0f-47d6-8672-6a1d60a1a9e8/397f64e7-089f-45db-a4b4-37eae348e402.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
     },
     {
       "id": "77c4966f-ead7-45bb-87e0-9ac618b11e8e",
@@ -169,13 +260,6 @@
       "cover": "https://uploads.mangadex.org/covers/ea0e7020-2b2f-4f17-9251-fee3632dc135/4979315b-7bbd-4d17-9e61-d49f07d1245d.jpg.256.jpg",
       "source": "mangadex",
       "status": "ongoing"
-    },
-    {
-      "id": "0a580438-bc72-4503-940b-12a5da881b56",
-      "title": "أنتِ زهرة الحظ",
-      "cover": "https://uploads.mangadex.org/covers/0a580438-bc72-4503-940b-12a5da881b56/4b9aa4eb-4356-417a-bb74-4dc879141e19.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "completed"
     },
     {
       "id": "11b74211-f4c0-4f08-b5a4-c491da0d0c0b",
@@ -234,13 +318,6 @@
       "status": "ongoing"
     },
     {
-      "id": "418791c0-35cf-4f87-936b-acd9cddf0989",
-      "title": "The Fragrant Flower Blooms with Dignity",
-      "cover": "https://uploads.mangadex.org/covers/418791c0-35cf-4f87-936b-acd9cddf0989/6e823d0e-103a-4cf9-a312-a3a292ccb12d.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
-    },
-    {
       "id": "510f29a8-99b4-46af-ba5e-916e96bc6f37",
       "title": "Fate/type Redline",
       "cover": "https://uploads.mangadex.org/covers/510f29a8-99b4-46af-ba5e-916e96bc6f37/c1d7aed1-9cd1-426f-bfb8-7e46594d0e29.jpg.256.jpg",
@@ -269,88 +346,11 @@
       "status": "ongoing"
     },
     {
-      "id": "f7b62193-bdfb-4953-a6c6-0bd1b9a872f9",
-      "title": "نداء البوق: لحن المعركة",
-      "cover": "https://uploads.mangadex.org/covers/f7b62193-bdfb-4953-a6c6-0bd1b9a872f9/85c12e60-fd34-402b-a62a-f2fc2fde5a28.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
-    },
-    {
       "id": "d553645b-03a3-4fc8-9a9c-57f91cbbab89",
       "title": "Are You a Landmine, Chihara-san?",
       "cover": "https://uploads.mangadex.org/covers/d553645b-03a3-4fc8-9a9c-57f91cbbab89/4878d139-e5ee-49eb-aeb6-1c2f9025624e.jpg.256.jpg",
       "source": "mangadex",
       "status": "ongoing"
-    },
-    {
-      "id": "244c9d4f-e5fb-4590-9b96-4da191977b33",
-      "title": "Skip and Loafer",
-      "cover": "https://uploads.mangadex.org/covers/244c9d4f-e5fb-4590-9b96-4da191977b33/927b550f-516f-4600-a59f-82f2e2f4fb39.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
-    },
-    {
-      "id": "4d6decd4-835d-4905-9534-2571dae07bcd",
-      "title": "Lord El-Melloi II-sei no Jikenbo",
-      "cover": "https://uploads.mangadex.org/covers/4d6decd4-835d-4905-9534-2571dae07bcd/5f347aae-bf45-4dcb-828d-2c507db71d2f.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
-    },
-    {
-      "id": "936f0ba5-ca65-4de4-99b1-528c02a4454d",
-      "title": "Hunter x Hunter - Digital Colored Comics",
-      "cover": "https://uploads.mangadex.org/covers/936f0ba5-ca65-4de4-99b1-528c02a4454d/128d80df-c5e4-4791-b3b7-08586e9db1b8.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
-    },
-    {
-      "id": "334019e1-18bb-4ac0-b35c-0e8efb1e481c",
-      "title": "JoJo’s Bizarre Adventure, Part 9: The JoJoLands - Digital Colored Comics",
-      "cover": "https://uploads.mangadex.org/covers/334019e1-18bb-4ac0-b35c-0e8efb1e481c/530583f4-80ad-4f37-92d9-441b225c9785.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
-    },
-    {
-      "id": "c4ca02fb-8378-433b-8049-fbbea5d25cba",
-      "title": "هايميا-سينباي حسناء مهيبة!",
-      "cover": "https://uploads.mangadex.org/covers/c4ca02fb-8378-433b-8049-fbbea5d25cba/7ab29404-0ebd-4862-ad4e-e4ea1ffe231f.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
-    },
-    {
-      "id": "ea47525d-99df-45b5-9103-dd853f49f8c3",
-      "title": "Welcome to Demon School! Iruma-kun: IruMafia Edition",
-      "cover": "https://uploads.mangadex.org/covers/ea47525d-99df-45b5-9103-dd853f49f8c3/36bf283d-531f-4937-a3a7-2a8a05ccae2e.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
-    },
-    {
-      "id": "a0a5528a-c4a8-4495-a966-6877c12856ba",
-      "title": "TRUMP",
-      "cover": "https://uploads.mangadex.org/covers/a0a5528a-c4a8-4495-a966-6877c12856ba/8cec91f3-ac76-460f-9d42-3d1b4163c0e3.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "completed"
-    },
-    {
-      "id": "37f1ddff-38a5-4e42-ba9a-ce967702dfb6",
-      "title": "Bartlet Fairy Basslet",
-      "cover": "https://uploads.mangadex.org/covers/37f1ddff-38a5-4e42-ba9a-ce967702dfb6/22ed72bc-6a4c-4a55-9d7a-059b1b2a3c9d.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
-    },
-    {
-      "id": "4141c5dc-c525-4df5-afd7-cc7d192a832f",
-      "title": "Blue Lock",
-      "cover": "https://uploads.mangadex.org/covers/4141c5dc-c525-4df5-afd7-cc7d192a832f/617e530b-aed4-4825-a05a-75c656429d1f.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "ongoing"
-    },
-    {
-      "id": "ed5dddc0-999d-4fd2-a702-9fef1ec2c955",
-      "title": "Blue Box",
-      "cover": "https://uploads.mangadex.org/covers/ed5dddc0-999d-4fd2-a702-9fef1ec2c955/850f0cb1-b94b-4f4f-9e33-a1a69acd0b46.jpg.256.jpg",
-      "source": "mangadex",
-      "status": "completed"
     }
   ]
 }
